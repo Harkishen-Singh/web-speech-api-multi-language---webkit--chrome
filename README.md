@@ -2,7 +2,7 @@
 web speech functionality using webkit for chrome, using html 5 concepts
 
 Languages supported:
-
+<code>
 [['Afrikaans',       ['af-ZA']],
  ['አማርኛ',           ['am-ET']],
  ['हिन्दी',             ['hi-IN']],
@@ -104,3 +104,4 @@ Languages supported:
                      ['yue-Hant-HK', '粵語 (香港)']],
  ['日本語',           ['ja-JP']],
  ['ภาษาไทย',         ['th-TH']]];
+</code>
